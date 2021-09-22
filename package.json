@@ -1,0 +1,26 @@
+{
+  "name": "a02-aelisebe",
+  "version": "1.0.0",
+  "description": "comp 426 assignment 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-aelisebe.git"
+  },
+  "keywords": [
+    "comp",
+    "assignment"
+  ],
+  "author": "anna beaver",
+  "license": "GNU General Public License v3.0 only",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-aelisebe/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-aelisebe#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
